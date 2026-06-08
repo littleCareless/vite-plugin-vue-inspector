@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-vue-inspector",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "Jump to local IDE source code when clicking Vue elements in the browser.",
   "keywords": [
     "debug",
